@@ -1,4 +1,6 @@
-## 🚀 My Skills
+# Read me ... or don't
+
+## My Skills
 
 ### Programming Languages
 
