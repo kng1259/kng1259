@@ -1,4 +1,10 @@
-# Read me ... or don't
+# Read me ... or don't, not my choice anyway
+
+## Introduction
+
+- 👋 Hi, I’m @kng1259
+- 👀 I’m a monkey busy setting up infrastructure and CI/CD pipelines
+- 💞️ I'm looking for a summer internship in 2025
 
 ## My Skills
 
